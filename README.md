@@ -1,2 +1,2 @@
-# Hola-Mundo-G1
-Este es el primer ejemplo de github del G1
+# Hola-Mundo
+Este es el primer ejemplo de Github para la clase de Simulación de procesos financieros
